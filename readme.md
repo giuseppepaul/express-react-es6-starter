@@ -1,1 +1,1 @@
-Just a quick starter project for express / react projects using ES6. Just added a few more bits on top of this cool express boilerplater by developit found here: https://github.com/developit/express-es6-rest-api
+Just a quick starter project for express / react projects using ES6. Just added a few more bits on top of this cool express boilerplate by developit found here: https://github.com/developit/express-es6-rest-api
