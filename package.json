@@ -4,8 +4,6 @@
   "description": "Express React ES6 Boilerplate",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon -w src --exec \"babel src/server/ -s -D -d dist --presets es2015,stage-0\"",
-    "build": "babel src/server/ -s -D -d dist --presets es2015",
     "test": "mocha --require babel-core/register"
   },
   "author": "Giuseppe",
@@ -34,6 +32,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
+    "gulp-clean": "^0.3.2",
     "mocha": "^3.0.2",
     "nodemon": "^1.10.2"
   }
