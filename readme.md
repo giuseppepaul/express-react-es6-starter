@@ -11,6 +11,7 @@ Builds and saves everything to the dist folder
 Starts a bunch of watch tasks that monitor server and client side JS and SASS files, compiling when changed.
 
 **gulp clean**
+
 Clears out the dist folder
 
 **gulp compile_server_js**
