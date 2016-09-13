@@ -1,4 +1,18 @@
-Just a quick starter project for express / react projects using ES6. Just added a few more bits on top of this cool express boilerplate by developit found here: https://github.com/developit/express-es6-rest-api
+Just a quick starter project for express / react projects using ES6 / Babel and various gulp tasks for building.
+
+## Running the server
+
+You should use nodemon to monitor the dist folder:
+
+```javascript
+npm install -g nodemon
+```
+
+Once you have installed nodemon and built using the gulp tasks below just cd to the dist folder and run the server up via nodemon:
+
+```javascript
+nodemon server.js
+```
 
 ## Gulp tasks
 
